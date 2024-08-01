@@ -1,0 +1,61 @@
+*{
+    margin: 0px;
+}
+.wrapper{
+    padding: 30px;
+    margin-top: 30px;
+    background-color: rgb(138, 127, 127);
+}
+
+.baris-1{
+    background-color: red;
+    padding: 50px;
+}
+.baris-2{
+    margin-top: 20px;
+    display: flex;
+    gap: 10px;
+}
+.baris-2 img{
+    width: 100%;
+}
+
+.baris-3{
+    background-color: green;
+    margin-top: 20px;
+    padding: 50px;
+}
+.baris-4{
+    background-color:red;
+    margin-top: 20px;
+    padding: 50px;
+}
+.baris-5{
+    background-color: yellow;
+    margin-top: 50px;
+    padding: 50px;
+}
+
+.baris-2-kolom-1, .baris-2-kolom-2, .baris-2-kolom-3, .baris-2-kolom-4, .baris-2-kolom-5{
+
+    height: 130px;
+    width: 50%;
+    background-color: blue;
+}
+
+.baris-2-kolom-2{
+    background-color: rgb(255, 0, 149);
+}
+
+.baris-2-kolom-3{
+    background-color: rgb(225, 0, 255);
+}
+
+.baris-2-kolom-4{
+   background-color: ; color: aqua;
+}
+
+.baris-2-kolom-5{
+    background-color: rgb(255, 8, 0);
+}
+
