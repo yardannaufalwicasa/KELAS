@@ -1,0 +1,1 @@
+Sekolah Terbaik No.7 Jawa Timur
