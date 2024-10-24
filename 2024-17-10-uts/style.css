@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    background-image: url(./bahan-uts2024/assets/img/bg-masthead.jpg);
+    height: 500px;
+    background-size: cover;
+    text-align: center;
+}
+
+.wrapper h1,h3{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.wrapper button {
+    color: aliceblue;
+    background-color: blue;
+    height: 30px;
+    margin-top: 15px;
+}
+
+.baris2 {
+    height: 200px;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.baris2 button {
+    color: aliceblue;
+    background-color: black;
+    margin: 20px;
+}
+
+.baris3 {
+    background-color: rgb(20, 74, 234);
+    height: 300px;
+    text-align: center;
+}
+
+.baris3 h1 {
+    color: aliceblue;
+    margin-top: 100px;
+}
+
+.baris3 h5 {
+    color: rgb(252, 205, 33);
+    margin: 90px;
+}
